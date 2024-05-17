@@ -1,0 +1,9 @@
+/photos_test/
+/venv/
+__pycache__/
+/dataset/
+model_extract_features/pesos-modelo/pre-trained_weights/modelo_facenet.h5
+model_extract_features/nuevasLabels.npz
+model_extract_features/labelFile100000.npz
+model_extract_features/imagenes.npz
+model_extract_features/pesos-modelo/
